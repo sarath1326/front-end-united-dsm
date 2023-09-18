@@ -49,7 +49,7 @@ function cat3(){
 
     <div className='main-home'>
 
-      <h4 className='titles'> United Service Defective Spaer Managment</h4>
+      <h4 className='titles'> United Service Defective Spaer </h4>
 
       <p> select your defect part brand and enter the details</p>
 
