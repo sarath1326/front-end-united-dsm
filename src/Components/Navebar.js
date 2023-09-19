@@ -142,7 +142,7 @@ function Navebar() {
         :
              
         <Dropdown.Item onClick={()=>{navigate('/login')}}>Login</Dropdown.Item>
-        <Dropdown.Item onClick={()=>{navigate('/sig')}}>Login</Dropdown.Item>
+        <Dropdown.Item onClick={()=>{navigate('/sig')}}>signup </Dropdown.Item>
 
   }
        
